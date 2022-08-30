@@ -106,6 +106,6 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: git@github.com:dbudaiya/dushenyan-share-record-blog.git
+  repo: git@github.com:caiqianghui/qianghuiy.github.io.git
   branch: gh-page
 

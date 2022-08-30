@@ -107,5 +107,5 @@ theme: butterfly
 deploy:
   type: 'git'
   repo: git@github.com:caiqianghui/qianghuiy.github.io.git
-  branch: gh-page
+  branch: master
 

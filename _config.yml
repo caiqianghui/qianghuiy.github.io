@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: dushenyan’Blog
+title: qianghuiy’Blog
 # subtitle: ''
 description: '回忆只是行李箱，装着山川和海洋'
-keywords: dushenyan blog  share record
-author: dushenyan
+keywords: qianghuiy blog  share record
+author: qianghuiy
 language: zh-CN
 timezone: 'Asia/Shanghai'
 email: 2645472474@qq.com
@@ -15,7 +15,7 @@ email: 2645472474@qq.com
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://qianghuiy.github.io/
-root: /qianghuiy.github.io/qianghuiy.github.io
+root: /qianghuiy.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
